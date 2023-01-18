@@ -74,3 +74,9 @@ img{
 .movie-rating__decor{
 	color: #020100e3;
 }
+.tab-size {
+	-webkit-tab-size: 4 !important;
+	-moz-tab-size: 4 !important;
+	-o-tab-size: 4 !important;
+	tab-size: 4 !important;
+}
